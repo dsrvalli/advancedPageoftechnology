@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    color: #5752ab;
+    
+}
+
+.paragraph {
+    font-family: "Roboto";
+   
+    color: #323f4b;
+}
+
+.card {
+    background-color: #ffffff;
+    padding: 10px;
+    height:100px;
+    border-top-left-radius: 90px;
+    border-top-right-radius: 30px;
+}
+
+.learnmorebtn {
+    background-color: #ffffff;
+    color:black;
+    font-family: "Robot";
+    font-weight: 500;
+    width:100px;
+    height:38px;
+    border-radius: 8px;
+    border-width: 1px;
+    margin-left:12px;
+   
+}
+
+.savebtn {
+    color: #ffffff;
+    background-color: #171f46;
+    width: 110px;
+    height: 40px;
+    font-weight: 500;
+    border-width: 3px;
+    border-radius: 11px;
+    margin-right:500px;
+}
